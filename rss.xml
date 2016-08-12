@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test]]></title>
+        <description><![CDATA[Test]]></description>
+        <link>https://thegrid.ai/test-xhirl/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Aug 2016 10:02:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-xhirl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[City Guide Spotlight: New York City]]></title>
+            <description><![CDATA[<article><h1>City Guide Spotlight: New York City</h1><p>A few days ahead of NYC's hectic and inspiring Armory Week, Scope and Pulse Art Fairs, we embarked upon an overhaul of our NYC City Guide. While there were some stalwarts that needed to be added, New York City's ever-evolving nature means plenty of brand new spots made the list.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af7a9d273d9a3ad652d9db0e555c5988fb81d7ec.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/travel/city-guide-nyc-2016-march</link>
+            <guid isPermaLink="false">77bb0c01-5735-476d-acd9-a41e71fa160f</guid>
+            <pubDate>Fri, 12 Aug 2016 10:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
+            <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
+            <guid isPermaLink="false">65db9b97-328f-423c-bb95-c062c561b92d</guid>
+            <pubDate>Fri, 12 Aug 2016 10:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Illustration]]></title>
+            <description><![CDATA[<article><h1>Illustration</h1><p>As part of his Celestial Series, Chicago-based digital artist David Brodeur rendered an alien world filled with berry-like plants, glowing crystals, and candy shaped orbs that sprout from the ground. Despite their exotic designs, Brodeur relies on common colors of familiar fruits to create this Willy Wonka-esque habitat where you can't help but want to reach out and gobble everything up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6c337dd3c98bcadd87c6b27fd94f1493ae65eb.jpg"></article>]]></description>
+            <link>http://www.thisiscolossal.com/category/illustration/</link>
+            <guid isPermaLink="false">d825a222-130d-4fe9-b0a2-d46493ef33ee</guid>
+            <pubDate>Fri, 12 Aug 2016 10:02:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
